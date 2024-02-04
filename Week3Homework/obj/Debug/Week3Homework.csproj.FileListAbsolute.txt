@@ -1,0 +1,8 @@
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\obj\Debug\Week3Homework.csproj.AssemblyReference.cache
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\obj\Debug\Week3Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\obj\Debug\Week3Homework.csproj.CoreCompileInputs.cache
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\bin\Debug\Week3Homework.exe.config
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\bin\Debug\Week3Homework.exe
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\bin\Debug\Week3Homework.pdb
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\obj\Debug\Week3Homework.exe
+C:\Users\FA707RE\OneDrive\Desktop\Week3Homework\Week3Homework\Week3Homework\obj\Debug\Week3Homework.pdb
